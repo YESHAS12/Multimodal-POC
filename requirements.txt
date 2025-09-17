@@ -1,0 +1,9 @@
+torch
+transformers
+diffusers
+TTS
+streamlit
+moviepy
+accelerate
+scipy
+soundfile
